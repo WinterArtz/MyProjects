@@ -1,2 +1,2 @@
-txt = input("Write something. ")
+txt = input("Write something: ")
 print("You wrote: ", "'", txt, "'", sep='')
