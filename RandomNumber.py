@@ -28,4 +28,4 @@ while True:
 for i in range(r):
     num = random.randrange(x, y+1, z)
     print(f"Number {i+1}: {num}")
-print('Restart program to enter new values!')
+print('''Restart program to enter new values!''')
